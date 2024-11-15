@@ -14,7 +14,7 @@ export const SUPPORTED_LANG = {
         share: 'Share',
         lastModified: 'Last Modified',
         copy: 'Copy',
-        emptyPH: 'Change the url as you like to make a new note, you can set a password via the password button and enter nothing to reset it.',
+        emptyPH: 'Change the URL to whatever you like to create a new note. You can set a password by clicking the "Set Password" button, and leave it empty to reset the password. Use the "Share" button to share the note with others, allowing them to view it without being able to modify the content.',
         tipEncrypt: 'This Note has been encrypted, please enter password!',
         tip404: '404, Nothing here',
     },
