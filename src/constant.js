@@ -14,7 +14,7 @@ export const SUPPORTED_LANG = {
         share: 'Share',
         lastModified: 'Last Modified',
         copy: 'Copy',
-        emptyPH: 'There are many like it, but this one is mine...',
+        emptyPH: 'Change the url as you like to make a new note, you can set a password via the password button and enter nothing to reset it.',
         tipEncrypt: 'This Note has been encrypted, please enter password!',
         tip404: '404, Nothing here',
     },
